@@ -1,7 +1,7 @@
 # IIS Formation
 
 ## IIS Internet Information Services (Version 10)
-Web server qui tourne sur la plateforme microsoft.net sur windows OS.
+IIS est Web server qui tourne sur la plateforme microsoft.net sur windows OS.
 
 Il est possible de le faire tourner sur linux et macs avec Mono 
 
@@ -16,9 +16,10 @@ HTTPS version sécurisé par protocoles ssl ou tls
 image (?)
 
 ## Installation (windows 10)
-IIS est une fonctonnalité de windows . Il suffit de l'activer
+IIS est une fonctonnalité de windows. Il suffit de l'activer
+
 Presser la touche Windows et Taper "Turn Windows features on or off"
-Inline-style: 
+
 ![alt text](https://github.com/benh009/IISFormation/blob/master/Capture.PNG "Logo Title Text 1")
 
 
@@ -42,7 +43,32 @@ Outils pour installer les modules https://www.microsoft.com/web/downloads/platfo
 * blacklisting 
 * authorization  rules
 
+## UI 
+![alt text](https://github.com/benh009/IISFormation/blob/master/iis-web-server-iis-manager-18346.png "Logo Title Text 1")
+3 parties
+* La gauche contient les serveurs connecté. on peut utiliser le remote server 
+    * applications pools
+    * Sites
+* Le centre contient les fonctionnalités (securité/logging)
+* La droite les actions. Elle depend du context
 
+## Application Pool
+
+### Managed pipeline mode
+integrated vs ~~ classic ~~
+
+### worker processes
+TaskManager => details w3wp.exe voir le user  
+worker processes (w3wp.exe) 
+
+ajouter une application pool crée un user. on peut le changer par des user du domaine(exemple client)
+
+### App pool recycling 
+
+* toute les 29h 
+* change le fichier de config
+montrer l'ecran
+evite d'avoir une application qui consomme toute la mémoire
 ## CLI 
 * remote management
 * using powersheel script
