@@ -67,7 +67,9 @@ ajouter une application pool crée un user. on peut le changer par des user du d
 
 * toute les 29h 
 * change le fichier de config
-montrer l'ecran
+![alt text](https://github.com/benh009/IISFormation/blob/master/Capture2.PNG "Logo Title Text 1")
+
+
 evite d'avoir une application qui consomme toute la mémoire
 ## CLI 
 * remote management
