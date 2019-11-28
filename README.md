@@ -1,4 +1,4 @@
-# IISFormation
+# IIS Formation
 
 ## IIS Internet Information Services(version 10)
 web server qui tourne sur la plateforme microsoft.net sur windows os
@@ -16,8 +16,10 @@ image (?)
 
 ## Installation (windows 10)
 IIS est une fonctonnalité de windows . Il suffit de l'activer
-1 Presser la touche Windows et Taper "Turn Windows features on or off"
-2 
+Presser la touche Windows et Taper "Turn Windows features on or off"
+Inline-style: 
+![alt text](https://github.com/benh009/IISFormation/blob/master/Capture.PNG "Logo Title Text 1")
+
 
 ## IIS feature
 ### Types d'application
