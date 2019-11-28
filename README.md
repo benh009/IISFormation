@@ -1,7 +1,8 @@
 # IIS Formation
 
-## IIS Internet Information Services(version 10)
-web server qui tourne sur la plateforme microsoft.net sur windows os
+## IIS Internet Information Services (Version 10)
+Web server qui tourne sur la plateforme microsoft.net sur windows OS.
+
 Il est possible de le faire tourner sur linux et macs avec Mono 
 
 ## IIS Express
