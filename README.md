@@ -74,3 +74,7 @@ evite d'avoir une application qui consomme toute la mémoire
 ## CLI 
 * remote management
 * using powersheel script
+
+
+## static website
+https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831515(v=ws.11)?redirectedfrom=MSDN
