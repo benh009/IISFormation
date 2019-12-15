@@ -78,3 +78,10 @@ evite d'avoir une application qui consomme toute la mémoire
 
 ## static website
 https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831515(v=ws.11)?redirectedfrom=MSDN
+
+## sftp 
+https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831655%28v%3dws.11%29
+
+## php 
+
+## .net 
