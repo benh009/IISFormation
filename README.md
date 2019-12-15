@@ -84,4 +84,7 @@ https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831655%
 
 ## php 
 
+https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh994589(v=ws.11)?redirectedfrom=MSDN
+
 ## .net 
+https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831550(v=ws.11)?redirectedfrom=MSDN
