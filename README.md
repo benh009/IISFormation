@@ -77,6 +77,12 @@ evite d'avoir une application qui consomme toute la mémoire
 
 
 ## static website
+*Authentication 
+*Default Document 
+*Login
+*Directory Browsing
+*Mime Types
+
 https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831515(v=ws.11)?redirectedfrom=MSDN
 
 ## sftp 
