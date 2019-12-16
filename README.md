@@ -79,9 +79,11 @@ evite d'avoir une application qui consomme toute la mémoire
 ## static website
 *Authentication 
 *Default Document 
-*Login
+*Logging
 *Directory Browsing
 *Mime Types
+
++ javascript
 
 https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831515(v=ws.11)?redirectedfrom=MSDN
 
