@@ -9,10 +9,22 @@ IIS Express est la version légère souvent utilisé avec Visual Studio
 
 
 ## Webserver ?
+Hébergent des ressources (pages web, images, vidéos, etc.) du Web.
+
+Ces ressources peuvent être statiques (servies telle-quelles) ou dynamiques (construites à la demande par le serveur). 
+
+Pages web qui sont généralement rendues en HTML
+
 Process les requêtes qui arrivent sur le port tcp 80(HTTP) et 443(HTTPS)
 * TCP couche de transport
 * HTTP protocol de la couche applicatif 
 * HTTPS version sécurisé par protocoles ssl ou tls
+
+Exemple de Webserver
+* Apache HTTP Server 
+* Apache Tomcat
+* nginx 
+* NodeJS 
 
 ## Installation (Windows 10)
 IIS est une fonctonnalité de Windows. Il suffit de l'activer
