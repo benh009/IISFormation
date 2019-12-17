@@ -3,19 +3,19 @@
 ## IIS Internet Information Services (Version 10)
 IIS est Web serveur qui tourne sur la plateforme microsoft.net sur windows OS.
 
-Il est possible de le faire tourner sur linux et macs avec Mono 
+Il est possible de le faire tourner sur Linux et Macs avec Mono 
 
 IIS Express est la version légère souvent utilisé avec Visual Studio
 
 
-## C'est quoi un webserver ?
+## Webserver ?
 Process les requêtes qui arrivent sur le port tcp 80(HTTP) et 443(HTTPS)
 * TCP couche de transport
 * HTTP protocol de la couche applicatif 
 * HTTPS version sécurisé par protocoles ssl ou tls
 
 ## Installation (Windows 10)
-IIS est une fonctonnalité de windows. Il suffit de l'activer
+IIS est une fonctonnalité de Windows. Il suffit de l'activer
 
 Presser la touche Windows et Taper "Turn Windows features on or off"
 
@@ -23,11 +23,12 @@ Presser la touche Windows et Taper "Turn Windows features on or off"
 
 ## IIS feature
 ### Types d'application
-* Host asp.net >eb application 
-* Static website HTML5
+* Static Website HTML5
+* Host asp.net Web application 
+* PHP application
 * SFTP/FTP server 
 * Host WCF service
-* PHP application
+
 
 Outils pour installer les modules https://www.microsoft.com/web/downloads/platform.aspx
 
@@ -82,14 +83,16 @@ Evite d'avoir une application qui consomme toute la mémoire
 * Mime Types
 On peut ajouter du Javascript car le code est exécuté coté client. 
 
-https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831515(v=ws.11)?redirectedfrom=MSDN
+[Plus]( https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831515(v=ws.11)?redirectedfrom=MSDN)
 
-## sftp 
-https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831655%28v%3dws.11%29
-user iss management
-## php 
+## PHP
 
-https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh994589(v=ws.11)?redirectedfrom=MSDN
+[Plus](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh994589(v=ws.11)?redirectedfrom=MSDN)
 
-## .net 
-https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831550(v=ws.11)?redirectedfrom=MSDN
+
+## FTP SFTP 
+[Plus](https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831655%28v%3dws.11%29
+user iss management)
+
+## .NET 
+[Plus](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831550(v=ws.11)?redirectedfrom=MSDN)
