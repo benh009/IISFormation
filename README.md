@@ -63,7 +63,7 @@ Trois parties
 * Le centre contient les fonctionnalités (securité/logging,...)
 * La droite les actions. Elle dépend du context
 
-## CLI 
+## Command-line interface (CLI)
 * Remote management
 * Using powersheel script
 
