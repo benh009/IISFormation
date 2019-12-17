@@ -43,38 +43,38 @@ Outils pour installer les modules https://www.microsoft.com/web/downloads/platfo
 
 ## UI 
 ![alt text](https://github.com/benh009/IISFormation/blob/master/iis-web-server-iis-manager-18346.png "Logo Title Text 1")
-3 parties
+Trois parties
 * La gauche contient les serveurs connecté. on peut utiliser le remote server 
-    * applications pools
+    * Applications pools
     * Sites
-* Le centre contient les fonctionnalités (securité/logging)
-* La droite les actions. Elle depend du context
+* Le centre contient les fonctionnalités (securité/logging,...)
+* La droite les actions. Elle dépend du context
 
 ## Application Pool
 
 ### Managed pipeline mode
-integrated vs ~~ classic ~~
+integrated vs ~~classic~~
 
 ### worker processes
 TaskManager => details w3wp.exe voir le user  
-worker processes (w3wp.exe) 
+Worker processes (w3wp.exe) 
 
-ajouter une application pool crée un user. on peut le changer par des user du domaine(exemple client)
+Ajouter une application pool crée un user. On peut le changer par des user du domaine(exemple client)
 
 ### App pool recycling 
 
-* toute les 29h 
-* change le fichier de config
+* Toute les 29h 
+* Change le fichier de config
 ![alt text](https://github.com/benh009/IISFormation/blob/master/Capture2.PNG "Logo Title Text 1")
 
 
-evite d'avoir une application qui consomme toute la mémoire
+Evite d'avoir une application qui consomme toute la mémoire
 ## CLI 
-* remote management
-* using powersheel script
+* Remote management
+* Using powersheel script
 
 
-## static website
+## Static Website
 *Authentication 
 *Default Document 
 *Logging
