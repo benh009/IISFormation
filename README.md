@@ -63,6 +63,25 @@ Trois parties
 * Le centre contient les fonctionnalités (securité/logging,...)
 * La droite les actions. Elle dépend du context
 
+## CLI 
+* Remote management
+* Using powersheel script
+
+## Static Website
+* Authentication 
+* Default Document 
+* Logging
+* Directory Browsing
+* Mime Types
+On peut ajouter du Javascript car le code est exécuté coté client. 
+
+[Plus]( https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831515(v=ws.11)?redirectedfrom=MSDN)
+
+## PHP
+
+[Plus](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh994589(v=ws.11)?redirectedfrom=MSDN)
+
+
 ## Application Pool
 
 ### Managed pipeline mode
@@ -82,24 +101,9 @@ Ajouter une application pool crée un user. On peut le changer par des user du d
 
 
 Evite d'avoir une application qui consomme toute la mémoire
-## CLI 
-* Remote management
-* Using powersheel script
 
 
-## Static Website
-* Authentication 
-* Default Document 
-* Logging
-* Directory Browsing
-* Mime Types
-On peut ajouter du Javascript car le code est exécuté coté client. 
 
-[Plus]( https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831515(v=ws.11)?redirectedfrom=MSDN)
-
-## PHP
-
-[Plus](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh994589(v=ws.11)?redirectedfrom=MSDN)
 
 
 ## FTP SFTP 
