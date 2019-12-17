@@ -83,7 +83,7 @@ On peut ajouter du Javascript car le code est exécuté coté client.
 
 
 ## Application Pool
-
+Application Pool = sécurité (isolation user)
 ### Managed pipeline mode
 integrated vs ~~classic~~
 
