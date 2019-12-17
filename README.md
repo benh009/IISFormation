@@ -5,10 +5,10 @@ IIS est Web serveur qui tourne sur la plateforme microsoft.net sur windows OS.
 
 Il est possible de le faire tourner sur linux et macs avec Mono 
 
-## IIS Express
+IIS Express est la version légère souvent utilisé avec Visual Studio
 
 
-## C'est quoi un webserver
+## C'est quoi un webserver ?
 Process les requêtes qui arrivent sur le port tcp 80(HTTP) et 443(HTTPS)
 * TCP couche de transport
 * HTTP protocol de la couche applicatif 
