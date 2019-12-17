@@ -112,3 +112,15 @@ user iss management)
 
 ## .NET 
 [Plus](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831550(v=ws.11)?redirectedfrom=MSDN)
+
+
+## Exercices 
+
+### SFTP 
+* User Admin
+* Créer un dossier privé à USER2 et USER2 
+* Créer un dossier Partagé entre USER1 et USER2 en lecture
+* User Admin est le seul à acceder modifier le dossier partagé
+* Accepter unique des fichiers .txt et .png
+
+### 
