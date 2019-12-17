@@ -75,13 +75,12 @@ Evite d'avoir une application qui consomme toute la mémoire
 
 
 ## Static Website
-*Authentication 
-*Default Document 
-*Logging
-*Directory Browsing
-*Mime Types
-
-+ javascript
+* Authentication 
+* Default Document 
+* Logging
+* Directory Browsing
+* Mime Types
+On peut ajouter du Javascript car le code est exécuté coté client. 
 
 https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831515(v=ws.11)?redirectedfrom=MSDN
 
