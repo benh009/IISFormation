@@ -15,16 +15,22 @@ Ces ressources peuvent être statiques (servies telle-quelles) ou dynamiques (co
 
 Pages web qui sont généralement rendues en HTML
 
-Process les requêtes qui arrivent sur le port tcp 80(HTTP) et 443(HTTPS)
-* TCP couche de transport
-* HTTP protocol de la couche applicatif 
-* HTTPS version sécurisé par protocoles ssl ou tls
-
 Exemple de Webserver
 * Apache HTTP Server 
 * Apache Tomcat
 * nginx 
 * NodeJS 
+
+## Rappels
+
+Process les requêtes qui arrivent sur le port tcp 80(HTTP) et 443(HTTPS)
+* TCP couche de transport
+* HTTP protocol de la couche applicatif 
+* HTTPS version sécurisé par protocoles ssl ou tls
+
+DNS : 
+
+![alt text](https://github.com/benh009/IISFormation/blob/master/Capture3.PNG  "Logo Title Text 1")
 
 ## Installation (Windows 10)
 IIS est une fonctonnalité de Windows. Il suffit de l'activer
@@ -109,7 +115,7 @@ Evite d'avoir une application qui consomme toute la mémoire
 ## FTP SFTP 
 [Plus](https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831655%28v%3dws.11%29
 user iss management)
-
+Client Ftp : [FileSilla](https://filezilla-project.org/)
 ## .NET 
 [Plus](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831550(v=ws.11)?redirectedfrom=MSDN)
 
@@ -129,4 +135,7 @@ user iss management)
 * User Admin est le seul à acceder modifier le dossier partagé
 * Accepter unique des fichiers .txt et .png
 
-
+## Démonstration 
+ [Web Platform Installer](https://www.microsoft.com/web/downloads/platform.aspx)
+* Wordpress
+* 
