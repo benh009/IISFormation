@@ -27,7 +27,7 @@ Process les requêtes qui arrivent sur le port tcp 80(HTTP) et 443(HTTPS)
 * TCP couche de transport
 * HTTP protocol de la couche applicatif 
 * HTTPS version sécurisé par protocoles ssl ou tls
-
+![alt text](https://github.com/benh009/IISFormation/blob/master/Capture4.PNG  "Logo Title Text 1")
 DNS : 
 
 ![alt text](https://github.com/benh009/IISFormation/blob/master/Capture3.PNG  "Logo Title Text 1")
