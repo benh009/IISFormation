@@ -165,7 +165,7 @@ Ajouter une application pool crée un user. On peut le changer par des users du 
 
 ### App pool recycling 
 
-* Toute les 29h 
+* Toutes les 29h 
 * Change le fichier de config
 ![alt text](https://github.com/benh009/IISFormation/blob/master/Capture2.PNG "Logo Title Text 1")
 
