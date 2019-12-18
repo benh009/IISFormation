@@ -167,4 +167,3 @@ Client Ftp : [FileSilla](https://filezilla-project.org/)
 ## Démonstration 
  [Web Platform Installer](https://www.microsoft.com/web/downloads/platform.aspx)
 * Wordpress
-* 
