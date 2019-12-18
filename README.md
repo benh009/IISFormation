@@ -184,8 +184,8 @@ Client Ftp : [FileSilla](https://filezilla-project.org/)
 
 ## Exercices 
 
-### Site static + php
-* Logger les connections dans un fichier séparé tout les heures 
+### Site static + PHP
+* Logger les connections dans un fichier séparé toutes les heures 
    * Date et Adresse ip
    
 ### .NET 
