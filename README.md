@@ -21,7 +21,7 @@ IIS est un Web serveur qui tourne sur la plateforme microsoft.net sur Windows OS
 
 Il est possible de le faire tourner sur Linux et Macs avec Mono. 
 
-IIS Express est la version légère souvent utilisé avec Visual Studio.
+IIS Express est la version légère souvent utilisée avec Visual Studio.
 
 
 ## Webserver ?
