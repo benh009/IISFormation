@@ -27,7 +27,7 @@ IIS Express est la version légère souvent utilisée avec Visual Studio.
 ## Web server ?
 Il héberge des ressources (pages web, images, vidéos, etc.) du Web.
 
-Ces ressources peuvent être statiques (servies telle-quelles) ou dynamiques (construites à la demande par le serveur). 
+Ces ressources peuvent être statiques (servies telles-quelles) ou dynamiques (construites à la demande par le serveur). 
 
 Pages web qui sont généralement rendues en HTML
 
