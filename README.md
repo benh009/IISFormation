@@ -1,11 +1,11 @@
 # IIS Formation
 
 ## IIS Internet Information Services (Version 10)
-IIS est Web serveur qui tourne sur la plateforme microsoft.net sur windows OS.
+IIS est Web serveur qui tourne sur la plateforme microsoft.net sur Windows OS.
 
-Il est possible de le faire tourner sur Linux et Macs avec Mono 
+Il est possible de le faire tourner sur Linux et Macs avec Mono. 
 
-IIS Express est la version légère souvent utilisé avec Visual Studio
+IIS Express est la version légère souvent utilisé avec Visual Studio.
 
 
 ## Webserver ?
@@ -63,7 +63,7 @@ Outils pour installer les modules [Web Platform Installer](https://www.microsoft
 ## UI 
 ![alt text](https://github.com/benh009/IISFormation/blob/master/iis-web-server-iis-manager-18346.png "Logo Title Text 1")
 Trois parties
-* La gauche contient les serveurs connecté. on peut utiliser le remote server 
+* La gauche contient les serveurs connectés. on peut utiliser le remote server 
     * Applications pools
     * Sites
 * Le centre contient les fonctionnalités (securité/logging,...)
@@ -107,6 +107,7 @@ iisreset /stop
 * Logging
 * Directory Browsing
 * Mime Types
+
 On peut ajouter du Javascript car le code est exécuté coté client. 
 
 [Plus]( https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831515(v=ws.11)?redirectedfrom=MSDN)
