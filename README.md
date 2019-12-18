@@ -3,11 +3,16 @@
 ## Agenda 
 * [IIS Internet Information Services (Version 10)](https://github.com/benh009/IISFormation/blob/master/README.md#iis-internet-information-services-version-10)
 * [Webserver ?](https://github.com/benh009/IISFormation/blob/master/README.md#webserver-)
-* [Rappels sur les notions réseaux]()
+* [Rappels sur les notions réseaux](https://github.com/benh009/IISFormation/blob/master/README.md#rappels-sur-les-notions-r%C3%A9seaux)
 * [Installation (Windows 10)](https://github.com/benh009/IISFormation/blob/master/README.md#installation-windows-10)
 * [IIS fonctionnalités]()
-* [UI ]()
+* [UI ](https://github.com/benh009/IISFormation/blob/master/README.md#ui)
 * [Command-line interface (CLI)](https://github.com/benh009/IISFormation/blob/master/README.md#command-line-interface-cli)
+* [Static Website](https://github.com/benh009/IISFormation/blob/master/README.md#static-website)
+* [PHP](https://github.com/benh009/IISFormation/blob/master/README.md#application-pool)
+* [ Application Pool](https://github.com/benh009/IISFormation/blob/master/README.md#application-pool)
+* [FTP SFTP ](https://github.com/benh009/IISFormation/blob/master/README.md#ftp-sftp)
+* [.NET ](https://github.com/benh009/IISFormation/blob/master/README.md#net)
 * [Démonstration ](https://github.com/benh009/IISFormation/blob/master/README.md#d%C3%A9monstration)
 * [Exercices](https://github.com/benh009/IISFormation/blob/master/README.md#exercices)
 
@@ -50,7 +55,7 @@ Presser la touche Windows et Taper "Turn Windows features on or off"
 
 ![alt text](https://github.com/benh009/IISFormation/blob/master/Capture.PNG "Logo Title Text 1")
 
-## IIS feature
+## IIS fonctionnalités
 ### Types d'application
 * Static Website HTML5
 * Host asp.net Web application 
@@ -160,6 +165,7 @@ Evite d'avoir une application qui consomme toute la mémoire
 ## FTP SFTP 
 [Plus](https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831655%28v%3dws.11%29
 user iss management)
+
 Client Ftp : [FileSilla](https://filezilla-project.org/)
 ## .NET 
 [Plus](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831550(v=ws.11)?redirectedfrom=MSDN)
