@@ -161,7 +161,7 @@ integrated vs ~~classic~~
 TaskManager => details w3wp.exe voir le user  
 Worker processes (w3wp.exe) 
 
-Ajouter une application pool crée un user. On peut le changer par des user du domaine(exemple client)
+Ajouter une application pool crée un user. On peut le changer par des users du domaine (exemple client).
 
 ### App pool recycling 
 
