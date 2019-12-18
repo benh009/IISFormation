@@ -196,7 +196,7 @@ Client Ftp : [FileSilla](https://filezilla-project.org/)
 * Créer un dossier privé à USER2 et USER2 
 * Créer un dossier partagé entre USER1 et USER2 en lecture
 * User Admin est le seul à acceder ou modifier le dossier partagé
-* Accepter unique des fichiers .txt et .png
+* Accepter uniquement des fichiers .txt et .png
 
 ## Démonstration 
  [Web Platform Installer](https://www.microsoft.com/web/downloads/platform.aspx)
