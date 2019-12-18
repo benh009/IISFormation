@@ -80,11 +80,11 @@ Outils pour installer les modules [Web Platform Installer](https://www.microsoft
 ## UI 
 ![alt text](https://github.com/benh009/IISFormation/blob/master/iis-web-server-iis-manager-18346.png "Logo Title Text 1")
 Trois parties
-* La gauche contient les serveurs connectés. on peut utiliser le remote server 
+* La gauche contient les serveurs connectés. on peut utiliser le remote serveur 
     * Applications pools
     * Sites
 * Le centre contient les fonctionnalités (securité/logging,...)
-* La droite les actions. Elle dépend du context
+* La droite, les actions. Elle dépend du context.
 
 ## Command-line interface (CLI)
 * Remote management
