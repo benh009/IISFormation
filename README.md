@@ -29,9 +29,9 @@ Il héberge des ressources (pages web, images, vidéos, etc.) du Web.
 
 Ces ressources peuvent être statiques (servies telles quelles) ou dynamiques (construites à la demande par le serveur). 
 
-Pages web qui sont généralement rendues en HTML
+Pages web qui sont généralement rendues en HTML.
 
-Exemples de Web servers
+Exemples de Web servers :
 * Apache HTTP Server 
 * Apache Tomcat
 * nginx 
