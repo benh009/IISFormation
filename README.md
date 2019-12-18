@@ -49,9 +49,9 @@ DNS :
 ![alt text](https://github.com/benh009/IISFormation/blob/master/Capture3.PNG  "Logo Title Text 1")
 
 ## Installation (Windows 10)
-IIS est une fonctonnalité de Windows. Il suffit de l'activer
+IIS est une fonctonnalité de Windows. Il suffit de l'activer.
 
-Presser la touche Windows et Taper "Turn Windows features on or off"
+Presser la touche Windows et Taper "Turn Windows features on or off".
 
 ![alt text](https://github.com/benh009/IISFormation/blob/master/Capture.PNG "Logo Title Text 1")
 
@@ -185,13 +185,14 @@ Client Ftp : [FileSilla](https://filezilla-project.org/)
 ### Site static + php
 * Logger les connections dans un fichier séparé tout les heures 
    * Date et Adresse ip
-### .net 
+   
+### .NET 
 * Deployer un website
 
 ### FTP 
 * User Admin
 * Créer un dossier privé à USER2 et USER2 
-* Créer un dossier Partagé entre USER1 et USER2 en lecture
+* Créer un dossier partagé entre USER1 et USER2 en lecture
 * User Admin est le seul à acceder modifier le dossier partagé
 * Accepter unique des fichiers .txt et .png
 
