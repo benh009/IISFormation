@@ -1,17 +1,16 @@
 # IIS Formation
 
 ## Agenda 
-[IIS Internet Information Services (Version 10)](https://github.com/benh009/IISFormation/blob/master/README.md#iis-internet-information-services-version-10)
-[Webserver ?](https://github.com/benh009/IISFormation/blob/master/README.md#webserver-)
-[Rappels sur les notions réseaux]()
-[Installation (Windows 10)](https://github.com/benh009/IISFormation/blob/master/README.md#installation-windows-10)
-[IIS fonctionnalités]()
-[UI ]()
-[Command-line interface (CLI)](https://github.com/benh009/IISFormation/blob/master/README.md#command-line-interface-cli)
-[Démonstration ](https://github.com/benh009/IISFormation/blob/master/README.md#d%C3%A9monstration)
+* [IIS Internet Information Services (Version 10)](https://github.com/benh009/IISFormation/blob/master/README.md#iis-internet-information-services-version-10)
+* [Webserver ?](https://github.com/benh009/IISFormation/blob/master/README.md#webserver-)
+* [Rappels sur les notions réseaux]()
+* [Installation (Windows 10)](https://github.com/benh009/IISFormation/blob/master/README.md#installation-windows-10)
+* [IIS fonctionnalités]()
+* [UI ]()
+* [Command-line interface (CLI)](https://github.com/benh009/IISFormation/blob/master/README.md#command-line-interface-cli)
+* [Démonstration ](https://github.com/benh009/IISFormation/blob/master/README.md#d%C3%A9monstration)
+* [Exercices](https://github.com/benh009/IISFormation/blob/master/README.md#exercices)
 
-[Exercices](https://github.com/benh009/IISFormation/blob/master/README.md#exercices)
-[]()
 ## IIS Internet Information Services (Version 10)
 IIS est Web serveur qui tourne sur la plateforme microsoft.net sur Windows OS.
 
