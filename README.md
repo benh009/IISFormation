@@ -186,7 +186,7 @@ Client Ftp : [FileSilla](https://filezilla-project.org/)
 
 ### Site static + PHP
 * Logger les connections dans un fichier séparé toutes les heures 
-   * Date et Adresse ip
+   * Date et Adresse IP
    
 ### .NET 
 * Deployer un website
@@ -195,7 +195,7 @@ Client Ftp : [FileSilla](https://filezilla-project.org/)
 * User Admin
 * Créer un dossier privé à USER2 et USER2 
 * Créer un dossier partagé entre USER1 et USER2 en lecture
-* User Admin est le seul à acceder modifier le dossier partagé
+* User Admin est le seul à acceder ou modifier le dossier partagé
 * Accepter unique des fichiers .txt et .png
 
 ## Démonstration 
