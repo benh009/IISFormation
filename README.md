@@ -1,5 +1,17 @@
 # IIS Formation
 
+## Agenda 
+[IIS Internet Information Services (Version 10)](https://github.com/benh009/IISFormation/blob/master/README.md#iis-internet-information-services-version-10)
+[Webserver ?](https://github.com/benh009/IISFormation/blob/master/README.md#webserver-)
+[Rappels sur les notions réseaux]()
+[Installation (Windows 10)](https://github.com/benh009/IISFormation/blob/master/README.md#installation-windows-10)
+[IIS fonctionnalités]()
+[UI ]()
+[Command-line interface (CLI)](https://github.com/benh009/IISFormation/blob/master/README.md#command-line-interface-cli)
+[Démonstration ](https://github.com/benh009/IISFormation/blob/master/README.md#d%C3%A9monstration)
+
+[Exercices](https://github.com/benh009/IISFormation/blob/master/README.md#exercices)
+[]()
 ## IIS Internet Information Services (Version 10)
 IIS est Web serveur qui tourne sur la plateforme microsoft.net sur Windows OS.
 
@@ -21,7 +33,7 @@ Exemple de Webserver
 * nginx 
 * NodeJS 
 
-## Rappels
+## Rappels sur les notions réseaux
 
 Process les requêtes qui arrivent sur le port tcp 80(HTTP) et 443(HTTPS)
 * TCP couche de transport
@@ -74,9 +86,11 @@ Trois parties
 * Using powersheel script
 
 run cmd as admin
+
 '''
 cd C:\Windows\System32\inetsrv
 '''
+
 '''
 appcmd add site /name:"Dummy Site" /id:10 /bindings:http/*:81:
 appcmd add app /site.name:"Dummy Site" /path:"/"
@@ -85,18 +99,25 @@ appcmd add vdir /app.name:"Dummy Site/" path:"/"
 
 appcmd set vdir "Dummy Site/" /physicalPath:"c:\inetpub\wwwroot"
 '''
+
 Egale à 
+
 '''
 appcmd add site /name:"Dummy Site" /id:10 /bindings:http/*:81: /physicalPath:"c:\inetpub\wwwroot"
 '''
+
 Liste les sites 
+
 '''
 appcmd list app
 '''
+
 Listes les backups de configuration 
+
 '''
 appcmd list app
 '''
+
 '''
 iisreset /stop
 '''
@@ -136,10 +157,6 @@ Ajouter une application pool crée un user. On peut le changer par des user du d
 
 
 Evite d'avoir une application qui consomme toute la mémoire
-
-
-
-
 
 ## FTP SFTP 
 [Plus](https://docs.microsoft.com/en-us/previous-versions/orphan-topics/ws.11/hh831655%28v%3dws.11%29
