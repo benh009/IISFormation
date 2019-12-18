@@ -57,7 +57,7 @@ Presser la touche Windows et Taper "Turn Windows features on or off".
 ![alt text](https://github.com/benh009/IISFormation/blob/master/Capture.PNG "Logo Title Text 1")
 
 ## IIS fonctionnalités
-### Types d'application
+### Types d'applications
 * Static Website HTML5
 * Host asp.net Web application 
 * PHP application
