@@ -90,41 +90,50 @@ Trois parties
 * Using powersheel script
 
 run cmd as admin
-
-'''
+```
 cd C:\Windows\System32\inetsrv
-'''
+```
 
-'''
+
+```
+
 appcmd add site /name:"Dummy Site" /id:10 /bindings:http/*:81:
 appcmd add app /site.name:"Dummy Site" /path:"/"
 
 appcmd add vdir /app.name:"Dummy Site/" path:"/"
 
 appcmd set vdir "Dummy Site/" /physicalPath:"c:\inetpub\wwwroot"
-'''
+```
+
 
 Egale à 
 
-'''
+```
+
 appcmd add site /name:"Dummy Site" /id:10 /bindings:http/*:81: /physicalPath:"c:\inetpub\wwwroot"
-'''
+```
 
 Liste les sites 
 
-'''
+```
+
 appcmd list app
-'''
+```
+
 
 Listes les backups de configuration 
 
-'''
-appcmd list app
-'''
+```
 
-'''
+appcmd list app
+```
+
+
+```
+
 iisreset /stop
-'''
+```
+
 
 ## Static Website
 * Authentication 
