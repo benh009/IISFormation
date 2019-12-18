@@ -67,7 +67,7 @@ Presser la touche Windows et Taper "Turn Windows features on or off".
 
 Outils pour installer les modules [Web Platform Installer](https://www.microsoft.com/web/downloads/platform.aspx)
 
-### Authentication
+### Authentification 
 * Windows authentification (Windows active directory environment) permet d'utiliser son compte du domaine pour se connecter
 * Anonyme 
 * ASP.NET
