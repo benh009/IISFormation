@@ -17,7 +17,7 @@
 * [Exercices](https://github.com/benh009/IISFormation/blob/master/README.md#exercices)
 
 ## IIS Internet Information Services (Version 10)
-IIS est Web serveur qui tourne sur la plateforme microsoft.net sur Windows OS.
+IIS est un Web serveur qui tourne sur la plateforme microsoft.net sur Windows OS.
 
 Il est possible de le faire tourner sur Linux et Macs avec Mono. 
 
