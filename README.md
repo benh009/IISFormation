@@ -24,14 +24,14 @@ Il est possible de le faire tourner sur Linux et Macs avec Mono.
 IIS Express est la version légère souvent utilisée avec Visual Studio.
 
 
-## Webserver ?
-Hébergent des ressources (pages web, images, vidéos, etc.) du Web.
+## Web server ?
+Il héberge des ressources (pages web, images, vidéos, etc.) du Web.
 
 Ces ressources peuvent être statiques (servies telle-quelles) ou dynamiques (construites à la demande par le serveur). 
 
 Pages web qui sont généralement rendues en HTML
 
-Exemple de Webserver
+Exemples de Web servers
 * Apache HTTP Server 
 * Apache Tomcat
 * nginx 
