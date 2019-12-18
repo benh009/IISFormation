@@ -61,7 +61,7 @@ Presser la touche Windows et Taper "Turn Windows features on or off".
 * Static Website HTML5
 * Host asp.net Web application 
 * PHP application
-* SFTP/FTP server 
+* SFTP/FTP serveur 
 * Host WCF service
 
 
