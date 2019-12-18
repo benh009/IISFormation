@@ -9,7 +9,7 @@
 * [UI ](https://github.com/benh009/IISFormation/blob/master/README.md#ui)
 * [Command-line interface (CLI)](https://github.com/benh009/IISFormation/blob/master/README.md#command-line-interface-cli)
 * [Static Website](https://github.com/benh009/IISFormation/blob/master/README.md#static-website)
-* [PHP](https://github.com/benh009/IISFormation/blob/master/README.md#application-pool)
+* [PHP](https://github.com/benh009/IISFormation/blob/master/README.md#php)
 * [ Application Pool](https://github.com/benh009/IISFormation/blob/master/README.md#application-pool)
 * [FTP SFTP ](https://github.com/benh009/IISFormation/blob/master/README.md#ftp-sftp)
 * [.NET ](https://github.com/benh009/IISFormation/blob/master/README.md#net)
