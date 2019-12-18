@@ -47,7 +47,8 @@ Process les requêtes qui arrivent sur le port tcp 80(HTTP) et 443(HTTPS)
 DNS : 
 
 ![alt text](https://github.com/benh009/IISFormation/blob/master/Capture3.PNG  "Logo Title Text 1")
-
+* Stateless Model vs Stateful Model
+   * Cookie
 ## Installation (Windows 10)
 IIS est une fonctonnalité de Windows. Il suffit de l'activer.
 
